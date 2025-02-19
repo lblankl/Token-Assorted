@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/danlongyuan/ShortR1/VQ-VAE/mlruns/0/8ba055a8b2c4487aa8ebf29f7ff5b034/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ba055a8b2c4487aa8ebf29f7ff5b034
+run_name: /mnt/danlongyuan/ShortR1/records/out/Llama-3.2-3B-MetaMath
+run_uuid: 8ba055a8b2c4487aa8ebf29f7ff5b034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739860798257
+status: 1
+tags: []
+user_id: v-danyuan@microsoft.com
